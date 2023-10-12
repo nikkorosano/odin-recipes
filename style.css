@@ -1,0 +1,29 @@
+* {
+    background-color: #D90024;
+}
+
+div {
+    resize: vertical;
+    overflow: auto;
+  }
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.card {
+    background-color: black;
+
+}
+
+div.container {
+    text-align: center;
+    background-color: #D90024;;
+}
+
+ul.recipe {
+    color: white;
+    display: inline-block;
+    text-align: left;
+}
