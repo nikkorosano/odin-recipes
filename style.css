@@ -1,29 +1,32 @@
-* {
-    background-color: #D90024;
-}
-
-div {
-    resize: vertical;
-    overflow: auto;
-  }
-
 h1 {
     color: white;
-    text-align: center;
 }
 
 .card {
-    background-color: black;
-
+    background-color: #11263B;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 24px;
+    margin-right: 24px;
 }
 
 div.container {
-    text-align: center;
-    background-color: #D90024;;
+    background-color: black;
+    margin-left: 24px;
+    margin-right: 24px;
 }
 
 ul.recipe {
     color: white;
-    display: inline-block;
-    text-align: left;
+    padding-left: 600px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+li {
+    font-size: 16px;
+    margin-bottom: 8px;
 }
